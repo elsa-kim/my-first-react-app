@@ -1,0 +1,11 @@
+.component-root {
+  background-color: dodgerblue;
+}
+.component-root h1 {
+  color: red;
+}
+
+.component-root span {
+  background-color: white;
+  font-weight: 700;
+}
